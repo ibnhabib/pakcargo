@@ -1,0 +1,138 @@
+{
+  "siteUrl": "https://www.pakistancargoexpress.com",
+
+  "palette": "green",
+  "footer": {
+    "type": "footer",
+    "content": "&copy; 2020 ",
+    "links": [
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "https://ukargo.com",
+        "label": "Mars Express Logistics"
+      }
+    ],
+    "has_subscribe": true,
+    "subscribe_content": "Stay up to date with our latest offers.",
+    "subscribe_title": "Subscribe",
+    "social_title": "Community",
+    "social_links": [
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "https://www.facebook.com/pakistancargoexpress",
+        "label": "Facebook"
+      },
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "https://www.instagram.com/",
+        "label": "Instagram"
+      },
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "https://www.linkedin.com/company/pakistan-cargo-express",
+        "label": "LinkedIn"
+      }
+    ],
+    "nav_links": [
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "/about",
+        "label": "About Us"
+      },
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "/services",
+        "label": "Services"
+      },
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "/blog",
+        "label": "Blog"
+      },
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "/contact",
+        "label": "Contact"
+      }
+    ],
+    "has_social": true,
+    "nav_title": "Company",
+    "logo_img": "https://www.datocms-assets.com/36192/1603100089-pakistan-cargo-1111.png",
+    "has_nav": true,
+    "tagline": "Door to door cargo to Pakistan"
+  },
+  "header": {
+    "has_nav": true,
+    "nav_links": [
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "/",
+        "label": "Home"
+      },
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "/about",
+        "label": "About"
+      },
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "/services",
+        "label": "Services"
+      },
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "/pricing",
+        "label": "Pricing"
+      },
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "/blog/",
+        "label": "Blog"
+      },
+      {
+        "type": "action",
+        "primary": false,
+        "new_window": true,
+        "url": "/contact",
+        "label": "Contact"
+      },
+      {
+        "type": "action",
+        "primary": true,
+        "new_window": true,
+        "url": "https://wa.me/971554948975",
+        "label": "Whatsapp"
+      }
+    ],
+    "type": "header",
+    "logo_img": "https://www.datocms-assets.com/36192/1603100089-pakistan-cargo-1111.png",
+    "title": "Pakistan Cargo"
+  },
+  "title": "Pakistan Cargo"
+}
